@@ -2,4 +2,14 @@
     <string name="app_name">NavegacionPractica</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="boton_numero_1">Boton numero 1</string>
+    <string name="personaje_famoso">Personaje Famoso</string>
+    <string name="bot_n_numero_2">Botón numero 2</string>
+    <string name="bot_n_n_mero_3">Botón número 3</string>
+    <string name="drawer_n_mrero_1">Drawer númrero 1</string>
+    <string name="drawer_n_mero_2">Drawer número 2</string>
+    <string name="drawer_n_mero_3">Drawer número 3</string>
+    <string name="options_n_mero_1">Options número 1</string>
+    <string name="options_n_mero_2">Options número 2</string>
+    <string name="options_n_mero_3">Options número 3</string>
 </resources>
